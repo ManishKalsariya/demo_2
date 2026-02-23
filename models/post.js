@@ -34,5 +34,5 @@ const getData = async ()=>{
     let result = await post.find({}).populate("user","username");
     console.log(result);
 }
-;;;;;
+;;;;;;
 getData();
