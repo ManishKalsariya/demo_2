@@ -34,5 +34,5 @@ const getData = async ()=>{
     let result = await post.find({}).populate("user","username");
     console.log(result);
 }
-
+// writing this just because adding commit on gitHub
 getData();
