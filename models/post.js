@@ -35,4 +35,4 @@ const getData = async ()=>{
     console.log(result);
 }
 
-getData();
+getData();;
