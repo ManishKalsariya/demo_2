@@ -35,4 +35,5 @@ const getData = async ()=>{
     console.log(result);
 }
 // writing this just because adding commit on gitHub
+//another...
 getData();
